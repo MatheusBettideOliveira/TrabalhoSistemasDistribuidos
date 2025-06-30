@@ -114,6 +114,7 @@ src/
 7 CONSIDERAÇÕES FINAIS
 A aplicação Java demonstra o consumo de serviços RESTful com autenticação via cabeçalhos. A utilização da API GeoDB Cities permite a exploração de dados geográficos com chamadas simples e resposta em formato JSON. O projeto pode ser expandido para interfaces gráficas mais completas ou integração com mapas.
 
+Pitch fazendo uso rapidamente 5min: https://youtu.be/OKgOIVj4x5w
 
 Aluno: Matheus Betti de Oliveira
 Professor: Udo Fritzke Junior
